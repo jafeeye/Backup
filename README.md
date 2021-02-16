@@ -1,7 +1,7 @@
 # Backup
 Swift 3 
 ## 移除原廠程式
-- Acer jumpstar
+- Acer jumpstart
 - Acer Collection S
 - Acer Configuration Manager
 - Acer Quick Access
