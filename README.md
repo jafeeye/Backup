@@ -9,3 +9,6 @@ Swift 3
 - PowerDirector for acer
 - PhotoDirector for acer
 - Acer Production Registration
+- Agoda
+- dropbox 優惠方案
+
